@@ -11,7 +11,7 @@ enum CardType : CaseIterable {
     case circle
     case cross
     case square
-    case fill
+    // case fill
        
 }
 
